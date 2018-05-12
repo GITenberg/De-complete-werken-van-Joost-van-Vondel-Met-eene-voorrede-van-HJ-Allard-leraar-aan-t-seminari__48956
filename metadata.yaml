@@ -1,4 +1,5 @@
 _repo: De-complete-werken-van-Joost-van-Vondel-Met-eene-voorrede-van-HJ-Allard-leraar-aan-t-seminari__48956
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -6,6 +7,9 @@ contributor:
       alias: Allard, H.J.
       gutenberg_agent_id: '24898'
       url: http://www.gutenberg.org/2009/agents/24898
+covers:
+- cover_type: archival
+  image_path: 48956-h/images/cover.jpg
 creator:
   author:
     agent_name: Vondel, Joost van den
@@ -22,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7148
     wikipedia: http://nl.wikipedia.org/wiki/Joost_van_den_Vondel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48956#De-complete-werken-van-Joost-van-Vondel-Met-eene-voorrede-van-HJ-Allard-leraar-aan-t-seminari_
 gutenberg_issued: '2015-05-14'
 gutenberg_type: Text
 identifiers:
